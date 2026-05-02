@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: fd06fa0b089b6034482a292f7d232a3d
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021BadgeA_Material
+    second: {fileID: 2100000, guid: 2257e049fba6c0c419a6864708c21152, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021Base_Material
+    second: {fileID: 2100000, guid: f5575b8122b56e94ca30df010e469705, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021Carbon1_Material
+    second: {fileID: 2100000, guid: d0a4cb95f71072041879307a164006e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021Coloured_Material
+    second: {fileID: 2100000, guid: 85937ad19aa91d24b90fc867705279ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021EngineA_Material
+    second: {fileID: 2100000, guid: 61bad9e833613ec46a410e142201fb46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021Grille1A_Material
+    second: {fileID: 2100000, guid: 73c41bde73d83e14e927b80ac3185c1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021Grille2A_Material
+    second: {fileID: 2100000, guid: 0265f3aab5a32dc49b63a35bf96ebf29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021Grille3A_Material
+    second: {fileID: 2100000, guid: bd486dfeb6a7baf4ab98487c582c2533, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021Grille4A_Material
+    second: {fileID: 2100000, guid: 1921c85831eb4e543aecc17657169ca7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021Grille5A_Material
+    second: {fileID: 2100000, guid: 1b1709b364b14bf4cbc3fa67a3965766, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021InteriorA_Material
+    second: {fileID: 2100000, guid: a44f0fe29ec35b1419a9aa72ba72e698, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021InteriorTillingA_Material
+    second: {fileID: 2100000, guid: bf6f14e739c6a2e45ace9268ac6496b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021LightA_Material
+    second: {fileID: 2100000, guid: a7291ba0fc6473942a1a35fd85bb5a2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021ManufacturerPlateA_Material
+    second: {fileID: 2100000, guid: fcb75cbf652c34a4786dc2194eb88748, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021Paint_Material
+    second: {fileID: 2100000, guid: 0500bc961a159ae45aa4f749dadcc466, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021SeatBelt_Material
+    second: {fileID: 2100000, guid: 345d27337facbee4b9a340059e240f95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021SpecularTintA_Material
+    second: {fileID: 2100000, guid: bcc45908258e0244e955460db417a15e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_CallipersCalliperGloss_Material
+    second: {fileID: 2100000, guid: 079b87d11cd75d24785cf5f0704e8811, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_Wheel1A_3D_3DWheel1B_Material
+    second: {fileID: 2100000, guid: d1ad52999fe656c4daccc7b3619f8e27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_BLACK_GLASS
+    second: {fileID: 2100000, guid: 5cf4aa04b7b0bc340be8efe6af1d21f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_BLACK_PAINT
+    second: {fileID: 2100000, guid: 41e44440f86a437448b2bcfa1707bd9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_GLASS
+    second: {fileID: 2100000, guid: 19843cf9327713e4e8844f2131a44738, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_RED_GLASS
+    second: {fileID: 2100000, guid: 439a97dc18bafad4bbdbcbefdd447d0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong1
+    second: {fileID: 2100000, guid: dcb5d235626d08f42bf8a5d869e12f7b, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OEM_Koenigsegg_BlueTintCarbon_120_Diffuse
+    second: {fileID: 2800000, guid: 950ce8117ef8927408c058e9984b6baa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_BadgeA_DiffuseAOSO
+    second: {fileID: 2800000, guid: 63e2f53cca13c8c4380c021b176ecf4f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_BadgeA_Normal
+    second: {fileID: 2800000, guid: 71c91c299fd6e80469b0099ec15e7fe5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_EngineA_DiffuseAOSO
+    second: {fileID: 2800000, guid: 6bbcaa04d0b670f47903c1c2a4b720c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_EngineA_Normal
+    second: {fileID: 2800000, guid: 17928847bb6c89c4794490c28dbe982f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_Grille1A_DiffuseAOSO
+    second: {fileID: 2800000, guid: b1befb115a40e3f46b6cfbfe7c618265, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_Grille1A_Normal
+    second: {fileID: 2800000, guid: 44f2f661ed267934798d3ff1d3036270, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_Grille2A_DiffuseAOSO
+    second: {fileID: 2800000, guid: 64cd289540f24e24a8c9a7a576f0d587, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_Grille2A_Normal
+    second: {fileID: 2800000, guid: 7e7e9db91cd200e4196d0e47b003cdde, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_Grille3A_DiffuseAOSO
+    second: {fileID: 2800000, guid: 19567da4eb31f34439768c0d45a332b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_Grille3A_Normal
+    second: {fileID: 2800000, guid: 16f7260d144020f408307c85551238d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_Grille4A_DiffuseAOSO
+    second: {fileID: 2800000, guid: 12fabfaa76cdfdb479e6d05ffaa43ea1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_Grille4A_Normal
+    second: {fileID: 2800000, guid: ce962c3ab2399c14c8015d2c8c5f411e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_Grille5A_DiffuseAOSO
+    second: {fileID: 2800000, guid: 85d008c95ec7c0f4ea76a687e6eb5cd3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_Grille5A_Normal
+    second: {fileID: 2800000, guid: fd9ed040f956aa44e9531c709107fbe7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_InteriorA_DiffuseAOSO
+    second: {fileID: 2800000, guid: c3bb4aa58ac3d1e43ab161e5984fcf45, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_InteriorA_Normal
+    second: {fileID: 2800000, guid: aee05587c8b478f44a32139dccca9e87, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_InteriorTillingA_DiffuseAOSO
+    second: {fileID: 2800000, guid: 86e10917a77084b4aba6f2fbaeb7d2b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_InteriorTillingA_Normal
+    second: {fileID: 2800000, guid: 168ea88006870b648a8e25c2cba6cf4c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_LightA_Diffuse
+    second: {fileID: 2800000, guid: 4adb4b7f5a68b76499b43f7ede90ce79, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_ManufacturerPlateA_Diffuse
+    second: {fileID: 2800000, guid: 8e16dbf267ab19742b55dc4f07110266, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_SpecularTintA_DiffuseAOSO
+    second: {fileID: 2800000, guid: bf8be81d3c189eb47955eed654c1a339, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_SpecularTintA_Normal
+    second: {fileID: 2800000, guid: 0df8e5d021899614f905b078195bb47c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_Wheel1A_Normal
+    second: {fileID: 2800000, guid: 35c47d0eff1b12b419276b0d36b72371, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pagani_Imola_2021_Wheel1B_DiffuseAOSO
+    second: {fileID: 2800000, guid: 3ef34e8044aa97946833012a79122e54, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: common_carbon05_black_diff
+    second: {fileID: 2800000, guid: 81c7f068482cd254396ba0d5ff5ec0b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: common_carbon05_norm
+    second: {fileID: 2800000, guid: 927804b31944c4742867c800cfe00270, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
