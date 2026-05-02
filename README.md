@@ -16,7 +16,7 @@ This project demonstrates **3D interaction, UI/UX integration, input handling, a
 - [🔊 Audio & Feedback System](#-audio--feedback-system)
 - [🧠 Technologies Used](#-technologies-used)
 - [🚀 How It Works](#-how-it-works)
-- [✨ Bonus Features](#-bonus-features)
+- [✨ Bonus Features](#-features)
 - [📽️ Demo](#-demo)
 - [👤 Author](#-author)
 
