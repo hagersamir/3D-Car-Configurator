@@ -1,4 +1,4 @@
-# 🧩 3D Car Configurator 
+# 🧩 3D Car Configurator
 
 An **interactive 3D configurator system** built in Unity that allows users to directly interact with a 3D model and customize its components in real time through a responsive 2D UI overlay.
 
@@ -8,17 +8,17 @@ This project demonstrates **3D interaction, UI/UX integration, input handling, a
 
 ## 📚 Table of Contents
 
-- 🎯 Project Overview  
-- 🚗 Configurable Model  
-- 🧠 Core Features  
-- 🎮 Interaction System  
-- 🧩 UI Configurator Panel  
-- 🔊 Audio & Feedback System  
-- 🧠 Technologies Used  
-- 🚀 How It Works  
-- ✨ Bonus Features  
-- 📽️ Demo  
-- 👤 Author  
+- [🎯 Project Overview](#-project-overview)
+- [🚗 Configurable Model](#-configurable-model)
+- [🧠 Core Features](#-core-features)
+- [🎮 Interaction System](#-interaction-system)
+- [🧩 UI Configurator Panel](#-ui-configurator-panel)
+- [🔊 Audio & Feedback System](#-audio--feedback-system)
+- [🧠 Technologies Used](#-technologies-used)
+- [🚀 How It Works](#-how-it-works)
+- [✨ Bonus Features](#-bonus-features)
+- [📽️ Demo](#-demo)
+- [👤 Author](#-author)
 
 ---
 
@@ -50,51 +50,31 @@ The system bridges the gap between:
 | 🪟 Windows | Toggle tint (on/off) |
 | 🪑 Interior | Change seat material/color (optional extension) |
 
-Each part is independently selectable and configurable.
-
 ---
 
 ## 🧠 Core Features
 
-- 🎯 **Direct 3D Interaction**
-  - Click/tap to select model parts
-  - Real-time selection highlighting (outline/glow)
-
-- 🎥 **Orbit Camera System**
-  - Mouse drag rotation
-  - Scroll zoom in/out
-  - Smooth and constrained movement
-
-- 🧩 **Dynamic Material System**
-  - Instant color updates
-  - RGB-based shading and gradient control
-  - Mesh-specific material targeting
-
-- 🖥️ **Responsive UI Overlay**
-  - Fully anchored UI (multi-resolution support)
-  - Clean configurator layout
+- 🎯 Direct 3D Interaction (select parts with click/tap)
+- 🎥 Orbit Camera (rotate + zoom)
+- 🧩 Dynamic Material System (real-time updates)
+- 🖥️ Responsive UI Overlay (multi-resolution support)
 
 ---
 
 ## 🎮 Interaction System
 
-### 🔹 3D Selection
-- Raycast-based object selection
-- Highlights selected part visually
-- Updates UI based on selected object
-
-### 🔹 Camera Control
-- Left mouse drag → rotate model  
-- Mouse wheel → zoom in/out  
-- UI interaction automatically blocks camera control  
+- Raycast-based object selection  
+- Highlight selected parts  
+- Orbit camera rotation with mouse drag  
+- Scroll zoom in/out  
+- UI blocks camera input when active  
 
 ---
 
 ## 🧩 UI Configurator Panel
 
-### Features:
-- 📌 Displays selected part name  
-- 🧾 Tooltip system for each part (hover or long-press shows part name + hint before selection)  
+- 📌 Shows selected part name  
+- 🧾 Tooltip system for each part (hover / focus info)  
 - 🎨 Color picker / swatches  
 - 🔄 Variant switching (buttons / dropdowns)  
 - 📜 Scrollable configuration summary  
@@ -102,30 +82,22 @@ Each part is independently selectable and configurable.
 
 ### States:
 - No selection → “Select a part to configure”  
-- Hover/Focus → Tooltip appears with part information  
-- Part selected → dynamic options appear   
+- Hover → Tooltip appears  
+- Selected → Configuration panel activates  
 
 ---
 
 ## 🔊 Audio & Feedback System
 
-To enhance user experience and make the configurator feel more interactive and premium, the system includes **light UI sound feedback**:
+- 🎯 Part selection sound  
+- 🧩 UI panel open/close sound  
+- 🔘 Button click sound  
+- 🎨 Lightweight, non-intrusive feedback system  
 
-- 🎯 **Part Selection Sound**
-  - Played when a 3D object is selected
-
-- 🧩 **UI Panel Open/Close Sound**
-  - Triggered when configurator panels appear or disappear
-
-- 🔘 **Button Click Sound**
-  - Played on all UI interactions (buttons, toggles, dropdowns)
-
-- 🎨 **Feedback Purpose**
-  - Improves user engagement
-  - Provides clear interaction confirmation
-  - Makes the experience feel responsive and polished
-
-All audio effects are kept **subtle and non-intrusive** to maintain a clean UX.
+Improves:
+- UX clarity  
+- Interaction feedback  
+- Overall polish  
 
 ---
 
@@ -144,12 +116,12 @@ All audio effects are kept **subtle and non-intrusive** to maintain a clean UX.
 
 ## 🚀 How It Works
 
-1. 3D model placed in centered scene  
-2. Orbit camera enables rotation & zoom  
+1. 3D model placed in scene center  
+2. Orbit camera enables interaction  
 3. Raycast detects selected parts  
-4. UI updates dynamically based on selection  
-5. Changes apply instantly to materials/meshes  
-6. Audio feedback reinforces every interaction  
+4. UI updates dynamically  
+5. Changes apply instantly to materials  
+6. Audio feedback enhances interaction  
 
 ---
 
@@ -160,15 +132,17 @@ All audio effects are kept **subtle and non-intrusive** to maintain a clean UX.
 - 🔄 Reset to default configuration  
 - 📊 Scrollable configuration summary  
 - 🎧 UI sound feedback system  
-- ⚡ Smooth UI transitions (fade/slide animations)  
+- ⚡ Smooth UI transitions (fade/slide)  
 
 ---
 
 ## 📽️ Demo
 
 
---- 
-👥 Author
 
-Hager Samir
-Unity Developer & Biomedical Engineer
+---
+
+## 👤 Author
+
+**Hager Samir**  
+Unity Developer & Biomedical Engineer  
